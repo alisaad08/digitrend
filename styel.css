@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+/* < !-- alisaad strat --> */
+.contener {
+    width: 100%;
+    height: 100vh;
+}
+
+.div__forst {
+    max-width: 100%;
+    max-height: 650px;
+    border-bottom-left-radius: 150px;
+    background: linear-gradient(90deg, #659365 20%, #073340 90% 100%);
+    margin-top: -30px;
+    clip-path: polygon(0 0, 100% 0, 100% calc(100% - 80px), calc(20% - 20px) 100%, 0 100%);
+}
+
+.div {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+
+.div__logo {
+    color: #FFFFFF;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.div__nav {
+    display: flex;
+}
+
+.nav__ul {
+    gap: 50px;
+    display: flex;
+    margin-right: 300px;
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+
+.nav__ul--li {
+    color: #FFFFFF;
+    font-size: 22px;
+}
+
+.nav__ul--li:active {
+    color: #B9F2A1;
+}
+
+.div__nav--btn {
+    background-color: #B9F2A1;
+    color: black;
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.div__second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.div__second--one {
+    width: 500px;
+    height: 360px;
+    margin-top: 130px;
+    margin-right: 150px;
+
+    flex-direction: column;
+    text-align: start;
+    justify-content: center;
+    align-items: center;
+}
+
+.one__div--texton {
+    color: #FFFFFF;
+    font-size: 50px;
+}
+
+.one__div--text {
+    color: #B9F2A1;
+}
+
+.div__second--text {
+    color: #E8E8E8;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.second__one--btn {
+    background-color: #B9F2A1;
+    width: 187px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.second__one--btn--one {
+    width: 187px;
+    height: 50px;
+    /* background-color: #073340; */
+    border: #B9F2A1;
+    border-radius: 10px;
+    background: transparent;
+    border: 1px solid black;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.second__one--btn--one:active {
+    background-color: #B9F2A1;
+}
+.end{
+    width: 1500px;
+    height: 400px;
+}
+.div__three {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.div__three--text {
+    font-size: 50px;
+}
+
+.div__three--lorem {
+    width: 550px;
+    margin-top: 15px;
+    color: #5D5A5A;
+}
+.div__four{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 150px;
+}
+/* < !-- alisaad end --> */
+
+
+/* < !-- shoxruxbek star --> */
+/* 
+< !-- shoxruxbek end --> */
+
+
+/* < !-- muslimbek start --> */
+
+/* < !-- muslimbek end --> */
+
+
+/* < !-- otabek start --> */ 
+/* < !-- otabek end --> */
+
+
+/* < !-- azizbek start --> */
+
+/* < !-- azizbek end --> */
+
+
+
+
+@media (max-width: 400px){
+ 
+
+    /* < !-- alisaad strat --> */
+
+    /* < !-- alisaad end --> */
+
+
+    /* < !-- shoxruxbek star --> */
+
+    /* < !-- shoxruxbek end --> */
+
+
+    /* < !-- Muslimbek start --> */
+
+    /* < !-- muslimbek end --> */
+
+
+    /* < !-- otabek start --> */
+
+    /* < !-- otabek end --> */
+
+    /* < !-- azizbek start --> */
+
+    /* < !-- azizbek end --> */
+
+}
